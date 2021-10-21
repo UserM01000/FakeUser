@@ -12,6 +12,6 @@ en contactarme :D, bye y disfruta
 
 Actualizacion 10/21 ---> Fuanciona tambien para Linux 
 
-        Linux 
-g++ main.cpp -o FakeUser
-./FakeUser
+          Linux 
+   g++ main.cpp -o FakeUser
+   ./FakeUser
