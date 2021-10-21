@@ -10,4 +10,6 @@ Este programa lo que hace es Crearte una nueva identidad con lo siguiente (por e
 Espero que les guste mi programa, si tienes sugerencias o dudas no dudes 
 en contactarme :D, bye y disfruta
 
+PSDT: solo funciona en Windows XD
+
                                                  -M01000
