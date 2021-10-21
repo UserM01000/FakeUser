@@ -11,6 +11,7 @@ Espero que les guste mi programa, si tienes sugerencias o dudas no dudes
 en contactarme :D, bye y disfruta
 
 Actualizacion 10/21 ---> Fuanciona tambien para Linux 
-          Linux 
+         
+     Linux 
    g++ main.cpp -o FakeUser
    ./FakeUser
