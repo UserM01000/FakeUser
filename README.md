@@ -10,6 +10,8 @@ Este programa lo que hace es Crearte una nueva identidad con lo siguiente (por e
 Espero que les guste mi programa, si tienes sugerencias o dudas no dudes 
 en contactarme :D, bye y disfruta
 
-PSDT: solo funciona en Windows XD
+Actualizacion 10/21 ---> Fuanciona tambien para Linux 
 
-                                                 -M01000
+        Linux 
+g++ main.cpp -o FakeUser
+./FakeUser
