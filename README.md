@@ -14,4 +14,4 @@ en contactarme :D, bye y disfruta
 ~~~
 Actualizacion 10/21 ---> Fuanciona tambien para Linux (tambien TermuxGOD) 
 ~~~
-[tested]:https://img.shields.io/badge/Probado-Termux-blue
+[tested]:https://img.shields.io/badge/Tested%3A-Windows%20%26%20Termux-blue
