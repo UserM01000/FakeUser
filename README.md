@@ -30,5 +30,6 @@ Actualizacion 10/21 ---> Fuanciona tambien para Linux (tambien TermuxGOD)
 * `./FakeUser`
 
 * `Listo y Disfruta`
-~~~
+
+<!-- XD -->
 [tested]:https://img.shields.io/badge/Tested%3A-Windows%20%26%20Termux-blue
