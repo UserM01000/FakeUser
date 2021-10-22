@@ -1,5 +1,4 @@
 # FakeUser
-![Tested]
 Crea tu nueva identidad con este programa en desarrollo
 Este programa lo que hace es Crearte una nueva identidad con lo siguiente (por el momento)
 1. Nombres y apellidos
@@ -13,4 +12,4 @@ en contactarme :D, bye y disfruta
 ~~~
 Actualizacion 10/21 ---> Fuanciona tambien para Linux (tambien TermuxGOD) 
 ~~~
-[tested]:
+[tested]:https://img.shields.io/badge/Probado-Termux-blue
