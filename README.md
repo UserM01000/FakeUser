@@ -12,3 +12,4 @@ en contactarme :D, bye y disfruta
 ~~~
 Actualizacion 10/21 ---> Fuanciona tambien para Linux (tambien TermuxGOD) 
 ~~~
+[tested]:
