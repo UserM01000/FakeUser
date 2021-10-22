@@ -10,8 +10,4 @@ Este programa lo que hace es Crearte una nueva identidad con lo siguiente (por e
 Espero que les guste mi programa, si tienes sugerencias o dudas no dudes 
 en contactarme :D, bye y disfruta
 
-Actualizacion 10/21 ---> Fuanciona tambien para Linux 
-         
-     Linux --> termux 
-* `g++ main.cpp -o FakeUser`   
-* `./FakeUser`
+Actualizacion 10/21 ---> Fuanciona tambien para Linux y TermuxGOD 
