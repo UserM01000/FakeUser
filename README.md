@@ -19,6 +19,8 @@ Actualizacion 10/21 ---> Fuanciona tambien para Linux (tambien TermuxGOD)
 
 * `apt upgrade && apt update -y`
 
+* `pkg install clang          (en caso que no se pueda compilar el programa)` 
+
 * `git clone https://github.com/UserM01000/FakeUser`
 
 * `cd FakeUser`
