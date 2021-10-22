@@ -1,4 +1,6 @@
 # FakeUser
+![Tested]
+<br>
 Crea tu nueva identidad con este programa en desarrollo
 Este programa lo que hace es Crearte una nueva identidad con lo siguiente (por el momento)
 1. Nombres y apellidos
