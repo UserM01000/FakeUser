@@ -13,5 +13,20 @@ Espero que les guste mi programa, si tienes sugerencias o dudas no dudes
 en contactarme :D, bye y disfruta
 ~~~
 Actualizacion 10/21 ---> Fuanciona tambien para Linux (tambien TermuxGOD) 
+
+Instalacion en Linux (termux)
+
+* `apt upgrade && apt update -y`
+
+* `git clone https://github.com/UserM01000/FakeUser`
+
+* `cd FakeUser`
+
+* `ls`
+
+* `g++ main.cpp -o FakeUser`
+
+* `./FakeUser`
+#Done
 ~~~
 [tested]:https://img.shields.io/badge/Tested%3A-Windows%20%26%20Termux-blue
